@@ -4,5 +4,5 @@ void main()
 { 
   printf("hello world");
   
-  printa("bye world");
+  printf("bye world");
 }
